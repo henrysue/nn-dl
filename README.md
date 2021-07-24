@@ -1,4 +1,5 @@
-# nn-dl
+# Neural Networks and Deep Learning Playground
+
 Neural Networks and Deep Learning Playground
 
 Repository by Henry Sue (henry@henrysue.dev)
